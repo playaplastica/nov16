@@ -48,6 +48,92 @@ En la categoría de sobreexplotación (y por lo tanto amenazadas) están la anch
 Entre las especies sometidas a un riguroso control de cuotas se cuentan el camarón nailon, el langostino amarillo y colorado, y la sardina común.
 De los recursos pesqueros más conocidos, sólo la jibia y la reineta gozan todavía de libre explotación.
 
+Información que debe contener el mapa: 
+| Región  | Especie con cuota |
+| ------------- | ------------- |
+|  XV | Jibia 
+Jurel   |
+| I | Jibia |
+| II | Langostino Colorado 
+Jibia 
+Jurel |
+| III | Algas 
+Camarón 
+Langostino Amarillo
+Langostino Colorado
+Jibia  
+Jurel  |
+| IV | Algas 
+Camarón 
+Langostino Amarillo
+Langostino Colorado
+Raya   
+Jibia 
+Jurel  |
+| V | Camarón 
+Merluza de cola 
+Raya 
+Sardina 
+Anchoveta
+Jibia 
+Jurel  |
+| VI | Camarón 
+Raya 
+Sardina 
+Anchoveta
+Jibia  |
+| VII | Algas 
+Camarón 
+Raya 
+Sardina 
+Anchoveta
+Jibia |
+| XVI | Raya 
+Sardina 
+Anchoveta
+Jibia  |
+| XVI | Raya 
+Sardina 
+Anchoveta
+Jibia  |
+| VIII | Raya 
+Sardina 
+Anchoveta
+Jibia  |
+| IX | Raya 
+Sardina 
+Anchoveta
+Jibia 
+Jurel  |
+| XIV |Raya 
+Sardina 
+Anchoveta
+Jibia 
+Jurel  |
+| X | Erizo 
+Congrio 
+Merluza de cola 
+Merluza de tres aletas
+Merluza del Sur  
+Raya 
+Sardina 
+Anchoveta
+Jibia 
+Jurel  |
+| XI | Erizo 
+Congrio 
+Merluza de cola 
+Merluza de tres aletas 
+Merluza del Sur 
+Raya 
+Jibia  |
+| XII | Congrio 
+Merluza de cola 
+Merluza de tres aletas 
+Merluza del Sur 
+Raya 
+Jibia  |
+
 Por otra parte, entre las especies sometidas a vedas temporales, de carácter biológicas, se cuentan la centolla, el erizo, el loco, la langosta de Juan Fernández, las algas pardas y el pulpo del norte.
  
 #### Pesca artesanal 
