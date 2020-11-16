@@ -69,12 +69,16 @@ Información que debe contener el mapa:
 | XII | Congrio ; Merluza de cola ; Merluza de tres aletas ; Merluza del Sur ; Raya ; Jibia|
 
 Por otra parte, entre las especies sometidas a vedas temporales, de carácter biológicas, se cuentan la centolla, el erizo, el loco, la langosta de Juan Fernández, las algas pardas y el pulpo del norte.
- 
+
+Ha existido una disminución paulatina en los desembarques, lo cual no es positivo debido a que se debe a una disminución abrupta de la biomasa marina. 
+![alt text](http://www.subpesca.cl/portal/617/articles-6637_documento.jpg)
 #### Pesca artesanal 
 
 Por su parte, 190 mil familias de pescadores artesanales se ven afectados por estas industrias masivas, ya que lo hacen de forma sustentable y aparecen estas empresas que contaminan y que sobreexplotan. 
+La ley impactó en la pesca artesanal debido a que se posibilitó a la industria pesquera a pescar dentro de las cinco millas reservadas para el sector presquero artesanal en la zona norte (regiones de Arica y Parinacota, de Tarapacá y de Antofagasta).
 
 ### Leyes o normativas
+La ley tramitada en 2012 permitió a las siete familias mencionadas anteriomente a tener licencias perpetuas para la pesca industrial. Esto se cambió en 2018 pero disminuyó a 20 años, lo cual sigue siendo un alto número. 
 
 Ley General de Pesca y Acuicultura (LGPA) para controlar el esfuerzo pesquero de la industria. La norma limitó el número de naves que podía tener una empresa y su capacidad de bodega. Se pretendía que pescaran menos. No resultó. Al contrario, las pesqueras industriales aumentaron sus capturas simplemente invirtiendo en tecnologías que les dieron a su flota mayor autonomía y eficiencia. 
 
