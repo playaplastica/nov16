@@ -52,21 +52,21 @@ Información que debe contener el mapa:
 | Región  | Especie con cuota |
 | ------------- | ------------- |
 |  XV | Jibia ; Jurel   |
-| I | Jibia |
+| I | Jibia; Veda temporal: Pulpo |
 | II | Langostino;  Colorado ; Jibia ; Jurel |
-| III | Algas ; Camarón ; Langostino Amarillo ; Langostino Colorado ; Jibia  ; Jurel  |
+| III | Veda Temporal:Algas ; Camarón ; Langostino Amarillo ; Langostino Colorado ; Jibia  ; Jurel  |
 | IV | Algas ; Camarón ; Langostino Amarillo ; Langostino Colorado ; Raya   ; Jibia  ; Jurel  |
 | V | Camarón ; Merluza de cola ; Raya ; Sardina ; Anchoveta ; Jibia ; Jurel  |
 | VI | Camarón ; Raya ; Sardina ; Anchoveta ; Jibia  |
 | VII | Algas ; Camarón ; Raya ; Sardina ; Anchoveta ; Jibia |
 | XVI | Raya ; Sardina ; Anchoveta ; Jibia  |
 | XVI | Raya ; Sardina ; Anchoveta; Jibia  |
-| VIII | Raya ; Sardina ; Anchoveta ; Jibia  |
-| IX | Raya ; Sardina ; Anchoveta ; Jibia ; Jurel  |
-| XIV |Raya ; Sardina ; Anchoveta ; Jibia ; Jurel  |
-| X | Erizo ; Congrio ; Merluza de cola ; Merluza de tres aletas; Merluza del Sur  ; Raya ; Sardina ; Anchoveta; Jibia ;Jurel  |
-| XI | Erizo ; Congrio ; Merluza de cola ; Merluza de tres aletas ; Merluza del Sur ; Raya ; Jibia  |
-| XII | Congrio ; Merluza de cola ; Merluza de tres aletas ; Merluza del Sur ; Raya ; Jibia  |
+| VIII | Raya ; Sardina ; Anchoveta ; Jibia; Veda Temporal: Loco   |
+| IX | Raya ; Sardina ; Anchoveta ; Jibia ; Jurel ; Veda Temporal: Loco |
+| XIV |Raya ; Sardina ; Anchoveta ; Jibia ; Jurel ; Veda Temporal: Loco |
+| X | Congrio; Merluza de cola; Merluza de tres aletas; Merluza del Sur; Raya; Sardina; Anchoveta; Jibia; Jurel; Veda Temporal: Loco, Erizo, Pulpo|
+| XI | Erizo ; Congrio ; Merluza de cola ; Merluza de tres aletas ; Merluza del Sur ; Raya ; Jibia ;Veda Temporal: Loco  |
+| XII | Congrio ; Merluza de cola ; Merluza de tres aletas ; Merluza del Sur ; Raya ; Jibia|
 
 Por otra parte, entre las especies sometidas a vedas temporales, de carácter biológicas, se cuentan la centolla, el erizo, el loco, la langosta de Juan Fernández, las algas pardas y el pulpo del norte.
  
