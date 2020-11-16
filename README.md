@@ -75,7 +75,9 @@ Ha existido una disminución paulatina en los desembarques, lo cual no es positi
 #### Pesca artesanal 
 
 Por su parte, 190 mil familias de pescadores artesanales se ven afectados por estas industrias masivas, ya que lo hacen de forma sustentable y aparecen estas empresas que contaminan y que sobreexplotan. 
+
 La ley impactó en la pesca artesanal debido a que se posibilitó a la industria pesquera a pescar dentro de las cinco millas reservadas para el sector presquero artesanal en la zona norte (regiones de Arica y Parinacota, de Tarapacá y de Antofagasta).
+
 La pesca entrega 75 mil empleos y de esos, 60 mil los entrega el sector artesanal al que se entrega el 20 por ciento de las capturas.
 
 ### Leyes o normativas
