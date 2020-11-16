@@ -67,3 +67,5 @@ En 2013 Chile prohibió la pesca de arrastre en los 117 montes submarinos ubicad
 - Derecho a un medio ambiente libre de contaminación
 - Derecho a la biodiversidad
 - Derecho inherente de todos los pueblos a disfrutar y utilizar plena y libremente sus riquezas y recursos naturales
+
+![alt text](https://i.imgur.com/7nqWJkD.jpg)
