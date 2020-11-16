@@ -1,0 +1,10 @@
+div.col-12 img{
+	width:100%;
+	height:auto;
+}
+body {
+    font-family: "Asap Medium";
+    font-weight: 300;
+    background: #7EB5CF;
+    color: #303030;
+}
